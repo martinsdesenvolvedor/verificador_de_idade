@@ -1,4 +1,4 @@
-var anoNascimento = document.querySelector('#ano_nascimento')
+var anoNascimento = document.querySelector('#ano-nascimento')
 var radsex = document.getElementsByName('radsex')
 var botao = document.querySelector('.verificador')
 var paragrafo = document.querySelector('.paragrafo')

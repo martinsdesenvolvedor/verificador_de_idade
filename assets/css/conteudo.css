@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     margin-bottom: 1rem;
     text-align: center;
     padding-left: 0.5rem;
@@ -23,31 +23,3 @@ input {
     text-align: center;
 }
 
-#masculino, #feminino {
-    width: 30px;
-}
-
-.ano {
-    
-    margin-top: 1rem;
-    margin-bottom: 0.8rem;
-}
-
-.botao {
-    padding-left: 1rem;
-    margin-bottom: 1.3rem;
-    
-}
-
-.verificador {
-    border-radius: 10px;
-    padding: 0.5rem;
-    font-size: 1rem;
-}
-
-.paragrafo {
-    margin-bottom: 1.5rem;
-    padding-left: 1rem;
-    font-weight: 700;
-   
-}

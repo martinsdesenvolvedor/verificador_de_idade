@@ -1,0 +1,25 @@
+#calendario {
+    padding: 0.4rem;
+    width: 110px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border: none;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.ui-datepicker-trigger {
+    padding: 0 12px;
+    margin-top: 10px;
+    width: 50px;
+    height: 40px;
+}
+
+.calendario {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 1rem;
+    font-size: 0.8rem
+}
+
